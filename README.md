@@ -387,4 +387,4 @@ In this lesson, we learned how to use migrations to fix mistakes or update our t
 ## Resources
 
 - [Sequelize Migrations](https://sequelize.org/master/manual/migrations.html)
-- [Sequelize QueryInterface](https://sequelize.org/master/class/lib/dialects/abstract/query-interface.js~QueryInterface.html)
+- [Sequelize QueryInterface](https://sequelize.org/docs/v6/other-topics/query-interface/)
